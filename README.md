@@ -1,12 +1,13 @@
 # happyMeal
 This is JavaScript file.  
-You can eat happy meal as much as you like :)
+You can eat happy meal as much as you like :)  
+Target on IE10 or later.
 ## Demo
 [CodePen](https://codepen.io/toshiya-marukubo/pen/GRjgZMG)
 ## License
 MIT
 ## How to use
-Add something like a button to your site.
+Add something like a button to your site.  
 After, please execute 'happyMealInit' after set option.
 ```
 // html element
