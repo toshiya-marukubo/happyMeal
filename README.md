@@ -19,7 +19,7 @@ After, please excute 'happyMealInit'.
 <script>
 happyMealInit({
   event: 'load', // When to start.
-  button_id: 'happy-button', // Your favorite id name (same name).
+  button_id: 'happy-button', // Your favorite id name (same name as button id).
   min_size: 50, // min happy meal size.
   max_size: 200, // max happy meal size.
   direction_x: -1, // x direction 1 = to right : -1 = to left.
